@@ -1,3 +1,3 @@
 # NetworkingKit
 
-A description of this package.
+Библиотека для работы с Networking слоем
